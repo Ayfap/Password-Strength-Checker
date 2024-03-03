@@ -8,7 +8,7 @@ The Password Strength Checker and Strong Password Suggester website is a tool de
 
 # Features 
 - ***Password Strength Evaluation:*** Users can input their chosen password into the website's interface, and the tool assesses its strength based on various criteria. These criteria may include length, complexity, the inclusion of uppercase and lowercase letters, numbers, and special characters.
-- 
+  
 * ***Real-time Feedback:*** As users type or paste their password, the website provides real-time feedback on its strength, often using color-coded indicators (e.g., red for weak, yellow for moderate, green for strong). This helps users make immediate adjustments to create a more secure password.
 
 + ***Password Suggestions:*** In addition to evaluating the provided password, the website generates and suggests stronger alternatives. These suggestions aim to meet the recommended security standards, incorporating a mix of uppercase and lowercase letters, numbers, and special characters.
@@ -21,3 +21,7 @@ The Password Strength Checker and Strong Password Suggester website is a tool de
 - HTML
 * CSS
 + JAVASCRIPT
+
+# Thank You
+
+We appreciate you taking the time to explore our Password Strength Checker and Suggester project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
