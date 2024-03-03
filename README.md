@@ -22,6 +22,10 @@ The Password Strength Checker and Strong Password Suggester website is a tool de
 * CSS
 + JAVASCRIPT
 
+  # Project Live Location
+
+  You can access the live version of this project at [GitHub Pages](https://ayfap.github.io/SecurePassGuard/).
+
 # Thank You
 
 We appreciate you taking the time to explore our Password Strength Checker and Suggester project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
