@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,15 +8,18 @@
 	<link rel="stylesheet" href="./sug.css">
 </head>
 <body>
-	<div id="sug">
-   		<h2>Strong Password Suggester</h2>
-		Enter the first string: <input type="text" id="str1" placeholder="First String"><br><br>
-		Enter a number: <input type="text" id="str2" ><br>
-		<select id="symbol"></select><br><br>
-
-	    	<button onclick="suggestStrongPassword()">Generate Password</button>
-	   	<p id="result"></p>
+	<div class="container">
+    <h2>Strong Password Suggester</h2>
+    <div class="inputArea">
+    <label >Enter the first string: </label>
+	<input type="text" id="str1" placeholder="First String"><br><br>
+    <label >Enter a number: </label>
+	<input type="text" id="str2" ><br><br>
+	<select id="symbol"></select><br><br>
+    <button onclick="suggestStrongPassword()">Generate Password</button>
+    </div>
+    <p id="result" ></p>
 	</div>
-	<script src="./sug.js"></script>
+    <script src="./sug.js"></script>
 </body>
 </html>
