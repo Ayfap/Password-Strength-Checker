@@ -8,6 +8,6 @@ The Password Strength Checker and Strong Password Suggester website is a tool de
 
 # Technologies-Used
 
-1 HTML
-2 CSS
-3 JAVASCRIPT
+- HTML
+* CSS
++ JAVASCRIPT
